@@ -94,7 +94,7 @@ LONGSEAL when faced with numerous distractors
           <h2 className="text-3xl font-bold">Example Question</h2>
           <Card className="p-4 w-max-w-[720px] flex flex-col items-center justify-center">
             <CardContent className="max-w-[720px]">
-              <Image src="/example_1.png" alt="Example Question" height={450} width={720} layout="responsive"/>
+              <Image src="/example_1.png" alt="Example Question" height={450} width={820} layout="responsive"/>
               <div className="flex flex-col md:flex-row items-center justify-start md:justify-center gap-2 md:gap-4">
                 <p>View trajectories for:</p>
                 <Button asChild>
